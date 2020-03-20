@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="testa:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/testa_war_exploded</output-path>
+    <root id="root">
+      <element id="library" level="project" name="junit" />
+      <element id="javaee-facet-resources" facet="testa/web/Web" />
+    </root>
+  </artifact>
+</component>
